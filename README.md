@@ -6,11 +6,15 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=18&duration=6000&pause=500&color=00FF41&vCenter=true&multiline=true&width=481&height=60&lines=%3E+Wake+up%2C+Albresky...;%3E+The+code+is+calling+you." alt="Typing SVG" /></a>
 </h2>
 
-[![GitHub Streak](https://github-readme-streak-stats-beta-ruby.vercel.app?user=Albresky&theme=transparent&hide_border=true&border_radius=6&card_width=535)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-beta-ruby.vercel.app?user=Albresky&theme=transparent&hide_border=true&border_radius=6&card_width=535" alt="GitHub Streak" />
+  </a>
+</p>
 
 I'm **Albresky** `/æl'brɛski/`:
 
 - 💻 I’m currently working on *Compiler*, *Deep Learning*, *AI-Infra*
-- 👯 I’m looking for collaborators on **CUTLASS**, **TileLang**, **Triton**, **CUDA**, etc.
+- 👯 I’m looking for collaborators on **CUTLASS**, **Triton**, **CUDA**, **TileLang**, etc.
 - ✉️ How to reach me: shikai@albresky.cn
 - 🌐 My blog: [Albresky's Blog](https://www.albresky.cn/)
