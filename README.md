@@ -14,7 +14,7 @@
 
 I'm **Albresky** `/æl'brɛski/`:
 
-- 💻 I’m currently working on *Compiler*, *Deep Learning*, *AI-Infra*
-- 👯 I’m looking for collaborators on **CUTLASS**, **Triton**, **CUDA**, **TileLang**, etc.
+- 💻 I’m currently working on *Compiler*, *LLM*, *AI-Infra*
+- 👯 I’m looking for collaborators on **vLLM/SGLang**, **CUTLASS**, **Triton**, **CUDA**, **TileLang**, etc.
 - ✉️ How to reach me: shikai@albresky.cn
 - 🌐 My blog: [Albresky's Blog](https://www.albresky.cn/)
