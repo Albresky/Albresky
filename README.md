@@ -19,8 +19,8 @@ I'm **Albresky** `/æl'brɛski/`:
 - ✉️ How to reach me: shikai@albresky.cn
 - 🌐 My blog: [Albresky's Blog](https://www.albresky.cn/)
 
-### Work Experience
+### Internships
 
-- <img src="https://cdn.simpleicons.org/kuaishou" height="16" style="vertical-align: middle; padding-right: 5px;" /> **Kuaishou** | LLM Engine Architecture Intern (2026.03 - Now)
-- <img src="https://cdn.simpleicons.org/baidu" height="16" style="vertical-align: middle; padding-right: 5px;" /> **Baidu Kunlunxin** | XPU Compiler Toolchain Intern (2025.09 - 2026.01)
-- <img src="https://cdn.simpleicons.org/amd/black" height="16" style="vertical-align: middle; padding-right: 5px;" /> **AMD** | Vitis Libraries(AIE) Intern (2023.10 - 2024.05)
+- <img src="https://cdn.simpleicons.org/kuaishou" height="16" style="vertical-align: middle; padding-right: 5px;" /> **Kuaishou** | LLM Engine Architecture (2026.03 - Now)
+- <img src="https://cdn.simpleicons.org/baidu" height="16" style="vertical-align: middle; padding-right: 5px;" /> **Baidu Kunlunxin** | XPU Compiler Toolchain (2025.09 - 2026.01)
+- <img src="https://cdn.simpleicons.org/amd/black" height="16" style="vertical-align: middle; padding-right: 5px;" /> **AMD** | Vitis Libraries(AIE) (2023.10 - 2024.05)
